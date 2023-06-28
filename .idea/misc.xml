@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/drawable/arrow.xml" value="0.2265" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/drawable/ic_logo.xml" value="0.2265" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/drawable/ic_mail_outline.xml" value="0.2265" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/drawable/ic_phone_number.xml" value="0.2265" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/drawable/ic_profile_user.xml" value="0.2265" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/drawable/ic_shopping.xml" value="0.2265" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/drawable/ic_wallet.xml" value="0.2265" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/drawable/ic_whatsapp.xml" value="0.2265" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/drawable/spinner_border.xml" value="0.2265" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/all_items_recycler_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/favorite_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_details.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_favorites.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_filter.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_filtered_items.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_help_feedback.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_image1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_image2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_image3.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_password_reset.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_picture_browser.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_screen_one.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_screen_three.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_screen_two.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_sell_one.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_sell_two.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_settings.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_splash.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_terms_condition.xml" value="0.2188782489740082" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/fragment_view_pager.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/items_placeholder.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/setting_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/layout/spinner_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/menu/filter_menu.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KIBU-OLX/app/src/main/res/menu/main_menu.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/UoEX/app/src/main/res/layout/fragment_details.xml" value="0.23007246376811594" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

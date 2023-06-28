@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120913554828",
+    "firebase_url": "https://uoe-olx-default-rtdb.firebaseio.com",
+    "project_id": "uoe-olx",
+    "storage_bucket": "uoe-olx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120913554828:android:862d4e927fbce429ab3aa9",
+        "android_client_info": {
+          "package_name": "com.ifixhubke.uoexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120913554828-dclcdl27s39ennkr9uh3thtiiqcqf46l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjAN4m2C3GxaCpJRDmKOG9GQrLOro-Boo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120913554828-dclcdl27s39ennkr9uh3thtiiqcqf46l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
